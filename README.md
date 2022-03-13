@@ -5,6 +5,7 @@ For this challenge we were tasked with identifying the number of eligible retire
 * In deliverable 1 we identify that there are a total of 72,458 employees that are eligble for retirement.
 * In deliverable 2 we identify that there are only 1940 employees eligbles to be mentors.
 * Out of the 72,458 employees that are eligible for retirement the majority of retirees are Senior Engineers (25916) and Senior Staff (24926).
+* Only 2 managers are eligible for retirement.
 
 ![Screen Shot 2022-03-12 at 7 42 48 PM](https://user-images.githubusercontent.com/93875400/158039977-3fd7f93c-5f7b-4fd5-b56d-954948dcc571.png)
 ![Screen Shot 2022-03-12 at 7 56 01 PM](https://user-images.githubusercontent.com/93875400/158040288-882003bb-6006-4626-947b-32f30d39e826.png)
